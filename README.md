@@ -7,6 +7,23 @@ By applying a **"Bottom-Up" merging strategy** in Power Query, I ensured that th
 
 ---
 
+## 🔎 Explore the Project
+
+Navigate through the project components to understand the technical and business implementation:
+
+* **📊 [Power BI Dashboard](Project_Files/Download_Link.md)**
+    Download and explore the interactive dashboard with KPIs, segmentation, and time intelligence analysis.
+* **🧱 [Data Modeling](docs/data_modeling.md)**
+    Detailed explanation of transforming the schema into a Star Schema.
+* **📊 [DAX Measures](docs/dax_measures.md)**
+    Complete list of business metrics and KPIs (Total Profit, YOY, etc.) with technical explanations.
+* **📈 [Business Insights](docs/insights.md)**
+    Strategic recommendations and key findings derived from the Sales Performance analysis.
+* **🖼️ [Images & Visuals](image/)**
+    Dashboard screenshots and visual assets used in the project documentation and ERD and Data Modeling
+
+---
+
 ## 🏗️ Schema Evolution (The Transformation)
 
 The original dataset followed a strict Snowflake architecture with multiple sub-dimensions. I performed several **Power Query Merges** to denormalize the tables into a clean Star Schema.
