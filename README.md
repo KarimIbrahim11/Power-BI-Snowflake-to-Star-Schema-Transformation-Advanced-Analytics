@@ -19,7 +19,7 @@ Navigate through the project components to understand the technical and business
     Complete list of business metrics and KPIs (Total Profit, YOY, etc.) with technical explanations.
 * **📈 [Business Insights](docs/insights.md)**
     Strategic recommendations and key findings derived from the Sales Performance analysis.
-* **🖼️ [Images & Visuals](image/)**
+* **🖼️ [Images & Visuals](images)**
     Dashboard screenshots and visual assets used in the project documentation and ERD and Data Modeling
 
 ---
