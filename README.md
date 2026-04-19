@@ -85,20 +85,25 @@ With the Star Schema in place, I developed a robust analytical layer focusing on
 ---
 
 ## 📁 Project Structure
+
 ```text
-Snowflake-to-Star-Schema-Project/
+Power-BI-Snowflake-to-Star-Schema-Transformation/
 │
-├── data/
-│   └── Raw_ERD_Snowflake.png          # The original complex ERD
+├── docs/
+│   ├── data_modeling.md       # Explanation of the transition to Star Schema
+│   ├── dax_measures.md        # Technical breakdown of all DAX formulas
+│   └── insights.md            # Strategic business findings and recommendations
 │
-├── powerbi/
-│   └── Sales_Analytics_Dashboard.pbix # The final Power BI file
+├── Project_Files/
+│   └── Download_Link.md       # Contains the download link for the .pbix file
 │
-├── images/
-│   └── Star_Schema_Model.png          # Screenshot of the final 1:Many model
-│   └── Dashboard_Preview.png          # Visual report highlights
+├── image/                     # Your images folder
+│   ├── Sales Performance & Profitability Intelligence Dashboard.png
+│   ├── Regional Sales Distribution & Yearly Profit Trends.png
+│   ├── ERD.png
+│   └── Data Modeling.png
 │
-└── README.md
+└── README.md                  # The main entry point and project index
 
 ---
 
