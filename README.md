@@ -11,7 +11,7 @@ By applying a **"Bottom-Up" merging strategy** in Power Query, I ensured that th
 
 Navigate through the project components to understand the technical and business implementation:
 
-* **📊 [Power BI Dashboard](Project_Files/Download_Link.md)**
+* **📊 [Power BI Dashboard](Project_Files/Sales_Analytics_Snowflake_to_Star_Transformation.pbix.pbix)**
     Download and explore the interactive dashboard with KPIs, segmentation, and time intelligence analysis.
 * **🧱 [Data Modeling](docs/data_modeling.md)**
     Detailed explanation of transforming the schema into a Star Schema.
